@@ -1,2 +1,2 @@
-# 留言
-> 有什么建议啥的请在Issue里留言！
+# HLM-2b2t Website
+> HLM-2b2t.github.io
